@@ -110,3 +110,26 @@ for key := range ages {
     fmt.Println(key)
 }
 ```
+
+### Reading numbers and strings one after another
+```golang
+var reader = bufio.NewReader(os.Stdin)
+
+func readLine(prompt string) string {
+	fmt.Print(prompt)
+	line, _ := reader.ReadString('\n')
+	return strings.TrimSpace(line)
+}
+
+//read ints as strings, then convert
+func readInt(prompt string) int {
+	for {
+		input := readLine(prompt)
+		n, err := strconv.Atoi(input)
+		if err == nil {
+			return n
+		}
+		fmt.Println("Please enter a valid number.")
+	}
+}
+```
