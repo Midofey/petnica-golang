@@ -1,0 +1,12 @@
+[submodule "golang-101-2026"]
+	path = golang-101-2026
+	url = https://github.com/petnica-rac-seminari/golang-101-2026.git
+[submodule "golang-parallel-2026"]
+	path = golang-parallel-2026
+	url = https://github.com/petnica-rac-seminari/golang-parallel-2026.git
+[submodule "design-patterns-2026"]
+	path = design-patterns-2026
+	url = https://github.com/petnica-rac-seminari/design-patterns-2026.git
+[submodule "music-workshop"]
+	path = music-workshop
+	url = https://github.com/petnica-rac/music-workshop.git
