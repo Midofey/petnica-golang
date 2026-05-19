@@ -10,3 +10,6 @@
 [submodule "music-workshop"]
 	path = music-workshop
 	url = https://github.com/petnica-rac/music-workshop.git
+[submodule "wumpus_world_rac"]
+	path = wumpus_world_rac
+	url = https://github.com/StefanTesmanovic/wumpus_world_rac
