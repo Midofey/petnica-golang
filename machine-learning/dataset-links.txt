@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+https://www.kaggle.com/datasets/sarveshchhetri/student-lifestyle-vs-academic-performance-dataset

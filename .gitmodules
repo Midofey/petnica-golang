@@ -13,3 +13,6 @@
 [submodule "wumpus_world_rac"]
 	path = wumpus_world_rac
 	url = https://github.com/StefanTesmanovic/wumpus_world_rac
+[submodule "Petnica-Project"]
+	path = Petnica-Project
+	url = https://github.com/Midofey/Petnica-Project.git
